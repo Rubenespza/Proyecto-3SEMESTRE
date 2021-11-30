@@ -1,0 +1,24 @@
+C:\Users\erick\source\repos\ArreglosCola\bin\Debug\ArreglosCola.exe.config
+C:\Users\erick\source\repos\ArreglosCola\bin\Debug\ArreglosCola.exe
+C:\Users\erick\source\repos\ArreglosCola\bin\Debug\ArreglosCola.pdb
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.DiagolBoxBuscar.resources
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.DiagolBoxCaptura.resources
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.Form1.resources
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.Properties.Resources.resources
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.exe
+C:\Users\erick\source\repos\ArreglosCola\obj\Debug\ArreglosCola.pdb
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\bin\Debug\ArreglosCola.exe.config
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\bin\Debug\ArreglosCola.exe
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\bin\Debug\ArreglosCola.pdb
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.DiagolBoxBuscar.resources
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.DiagolBoxCaptura.resources
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.Form1.resources
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.Properties.Resources.resources
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.exe
+C:\Users\Raquel Maya\Desktop\EXPOSICION COLAS\ArreglosCola\obj\Debug\ArreglosCola.pdb
