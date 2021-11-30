@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.Form1.resources
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.Properties.Resources.resources
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\bin\Debug\Cola_Circular.exe.config
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\bin\Debug\Cola_Circular.exe
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\bin\Debug\Cola_Circular.pdb
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.exe
+C:\Users\andre\source\repos\Cola_Circular\Cola_Circular\obj\Debug\Cola_Circular.pdb

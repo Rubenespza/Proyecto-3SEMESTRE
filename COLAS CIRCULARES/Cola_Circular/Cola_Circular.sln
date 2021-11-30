@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cola_Circular", "Cola_Circular\Cola_Circular.csproj", "{EA8173FD-2F7C-4AD6-83B7-FDEE6C17F6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8173FD-2F7C-4AD6-83B7-FDEE6C17F6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8173FD-2F7C-4AD6-83B7-FDEE6C17F6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8173FD-2F7C-4AD6-83B7-FDEE6C17F6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8173FD-2F7C-4AD6-83B7-FDEE6C17F6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E763DC66-E478-495F-AB39-305AA8BD06A1}
+	EndGlobalSection
+EndGlobal

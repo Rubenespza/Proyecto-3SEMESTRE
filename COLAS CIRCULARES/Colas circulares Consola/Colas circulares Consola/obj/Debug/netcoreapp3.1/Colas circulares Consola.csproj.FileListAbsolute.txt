@@ -1,0 +1,13 @@
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.exe
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.deps.json
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.runtimeconfig.json
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.runtimeconfig.dev.json
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.dll
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\bin\Debug\netcoreapp3.1\Colas circulares Consola.pdb
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.csprojAssemblyReference.cache
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.AssemblyInfoInputs.cache
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.AssemblyInfo.cs
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.csproj.CoreCompileInputs.cache
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.dll
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.pdb
+C:\Users\GOBO\Desktop\Programas\Colas circulares Consola\Colas circulares Consola\obj\Debug\netcoreapp3.1\Colas circulares Consola.genruntimeconfig.cache
