@@ -1,0 +1,13 @@
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.exe
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.deps.json
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.runtimeconfig.json
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.runtimeconfig.dev.json
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.dll
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\bin\Debug\netcoreapp3.1\Colas dobles Consola.pdb
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.csprojAssemblyReference.cache
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.AssemblyInfoInputs.cache
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.AssemblyInfo.cs
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.csproj.CoreCompileInputs.cache
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.dll
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.pdb
+C:\Users\GOBO\Desktop\Programas\Colas dobles Consola\Colas dobles Consola\obj\Debug\netcoreapp3.1\Colas dobles Consola.genruntimeconfig.cache
